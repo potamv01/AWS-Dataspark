@@ -1,0 +1,11 @@
+LSE_DA301: Multiplinear Regression Model using Python
+
+################################################################################
+
+Column name       Description
+Rooms             The average number of rooms per property. 
+Distance          The weighted distance of each property from five employment
+                      hubs in Cape Town.
+Value             The median value of each property in thousands.
+
+################################################################################ 
