@@ -1,0 +1,53 @@
+metadata
+
+gold_stocks_price.csv – Gold and stock prices from Dec 2011 to Dec 2018. 
+
+
+Column name       Description
+Date              Date when the corresponding value of the stock or gold was recorded
+gold_open         Value of all gold at the opening of the day
+gold_high         Highest value of gold of the day
+gold_low          Lowest value of gold of the day
+gold_volume       The number of gold commodities sold during a given day
+SP_open           Value of S&P 500 stocks at the opening of the day
+SP_high           Highest value of S&P 500 stocks of the day
+SP_low            Lowest value of S&P 500 stocks of the day
+SP_volume         The number of S&P 500 stocks sold during a given day
+DJ_open           Value of Dow Jones Industrial Average stocks at the opening of the day
+DJ_high           Highest value of Dow Jones Industrial Average stocks of the day
+DJ_low            Lowest value of Dow Jones Industrial Average stocks of the day
+DJ_volume         The number of Dow Jones Industrial Average stocks sold during a given day
+EG_open           Value of the EG Index stocks at the opening of the day
+EG_high           Highest value of EG Index stocks of the day
+EG_low            Lowest value of EG Index stocks of the day
+EG_volume         The number of EG Index stocks sold during a given day
+OF_Open           Value of all gold at the opening of the day
+OF_High           Highest value of gold of the day
+OF_Low            Lowest value of gold of the day
+OF_Volume         The number of gold commodities sold during a given day
+SF_Open           Value of Stifel Financial Corp stocks at the opening of the day
+SF_High           Highest value of Stifel Financial Corp stocks of the day
+SF_Low            Lowest value of Stifel Financial Corp stocks of the day
+SF_Volume         The number of Stifel Financial Corp stocks sold during a given day
+USDI_Open         Value of the US Dollar Index Futures stocks at the opening of the day
+USDI_High         Highest value of the US Dollar Index Futures stocks of the day
+USDI_Low          Lowest value of the US Dollar Index Futures stocks of the day
+USDI_Volume       The number of the US Dollar Index Futures stocks sold during a given day
+GDX_Open          Value of VanEck Gold Miners ETF stocks at the opening of the day
+GDX_High          Highest value of VanEck Gold Miners ETF stocks of the day
+GDX_Low           Lowest value of VanEck Gold Miners ETF stocks of the day
+GDX_Volume        The number of VanEck Gold Miners ETF stocks sold during a given day
+USO_Open          Value of United States Oil ETF stocks at the opening of the day
+USO_High          Highest value of United States Oil ETF stocks of the day
+USO_Low           Lowest value of United States Oil ETF stocks of the day
+USO_Volume        The number of United States Oil ETF stocks sold during a given day
+
+
+oil_prices.csv - Oil prices from Dec 2011 to Dec 2018..
+
+Column name       Description
+Date              Date when the corresponding value of the oil was recorded
+oil_open          Value of oil at the opening of the day
+oil_high          Highest value of oil of the day
+oil_low           Lowest value of oil of the day
+oil_volume        The volume of oil commodities sold during a given day
